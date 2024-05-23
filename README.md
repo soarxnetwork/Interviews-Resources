@@ -1,4 +1,4 @@
-# Interviews-Resources
+Interviews-Resources
 
 1.[DBMS-Interview-Questions](https://github.com/avinash201199/Interviews-Resources/tree/main/DBMS-Interview-Questions)<br>
 2.[DSA-Interview-Questions](https://github.com/avinash201199/Interviews-Resources/tree/main/DSA-Interview-Questions)<br>
